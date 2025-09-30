@@ -1,0 +1,61 @@
+.myimg{
+	width:300px;
+	height:300px;
+	object-fit:cover;
+	border-radius:50%;
+}
+
+.row{
+	width:200px;
+	height:40px;
+	background-image:richarddjames.jpg;
+	background-size:cover;
+	background-position:center;
+	border-radius:50%;
+}
+
+body{
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+	line-height: 50px;
+	background-color: #bbe32b;
+}
+
+p{
+	border-style: solid;
+	border-radius: 40px;
+	border-width: 3px;
+	margin: 20px;
+}
+
+span{
+	font-weight: bold;
+	margin: 20px;
+}
+
+ol{
+	border-style: solid;
+	border-radius: 40px;
+	border-width: 3px;
+	margin: 20px;
+}
+
+ul{
+	border-style: solid;
+	border-radius: 40px;
+	border-width: 3px;
+	margin: 20px;
+	list-style-type: none;
+}
+
+i{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+img{
+	width:180px;
+	height:180px;
+	
+}
